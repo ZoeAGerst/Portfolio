@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	   <title>Portfolio Project</title>
+	</head>
+	<body>
+	     <h1>Portfolio Project</h1>
+	     <h2>Zoe Gerst</h2>
+	    <p> This website holds all the projects I did in Computer science during the 
+	    2016-2017 school year.</p>
+	    <p>This is the first project we did at the beginning of the year. It is a list of 
+	events I did during the summer of 2016.</p>
+	    <li><a href=///Users/cseper2/Downloads/top5summerlist-gh-pages%202/top5listv2.html>
+	    Top 5 Things I Did This Summer</a></li>
+	    <p>For this project, we had to describe our idea of a perfect vacation. We had to 
+	    add Google maps to help visualize what our vacation would be like.</p>
+	    <li><a href=///Users/cseper2/Downloads/Dream-Vacation-gh-pages%203/index.html>
+	    Dream Vacation</a></li>
+	    <p>This project gave us the chance to make a website about anything we wanted. I
+	    really liked this project, because it gave us the chance to be creative.</p>
+	    <li><a href=///Users/cseper2/Downloads/Steven_Universe-master%203/index.html>
+	    Steven Universe</a></li>
+		<p>Bonsai art gave us another chance to be as creative as we wanted. We were able
+		to create and/or animate whatever we wanted.</p>
+		<li><a href=http://orbit.bonsaijs.org/#var%20triangle%20%3D%20new%20Path()%3B%0Atr
+		iangle.stroke(%22black%22%2C%202%20)%3B%0Atriangle.moveTo(100%2C500)%3B%0Atriangle
+		.lineTo(500%2C500)%3B%0Atriangle.lineTo(300%2C100)%3B%0Atriangle.lineTo(100%2C500)
+		%3B%0Atriangle.fill(%22yellow%22)%3B%0Atriangle.addTo(stage)%3B%0A%20%0Avar%20squa
+		re%20%3D%20new%20Path()%3B%0Asquare.stroke(%22black%22%2C%2010%20)%3B%0Asquare.mov
+		eTo(265%2C99)%3B%0Asquare.lineTo(330%2C99)%3B%0Asquare.lineTo(330%2C94)%3B%0Asquar
+		e.lineTo(270%2C94)%3B%0Asquare.lineTo(270%2C99)%3B%0Asquare.fill(%22black%22)%3B%0
+		Asquare.addTo(stage)%3B%0A%20%0Avar%20square%20%3D%20new%20Path()%3B%0Asquare.stro
+		ke(%22black%22%2C%2010%20)%3B%0Asquare.moveTo(290%2C93)%3B%0Asquare.lineTo(290%2C3
+		3)%3B%0Asquare.lineTo(310%2C33)%3B%0Asquare.lineTo(310%2C93)%3B%0Asquare.lineTo(29
+		0%2C93)%3B%0Asquare.fill(%22black%22)%3B%0Asquare.addTo(stage)%3B%0A%20%0Avar%20ov
+		ale%20%3D%20new%20Path()%3B%0Aovale.stroke(%22black%22%2C%202%20)%3B%0Aovale.moveT
+		o(245%2C230)%3B%0Aovale.lineTo(260%2C245)%3B%0Aovale.lineTo(277%2C255)%3B%0Aovale.
+		lineTo(300%2C260)%3B%0Aovale.lineTo(327%2C255)%3B%0Aovale.lineTo(337%2C250)%3B%0Ao
+		vale.lineTo(355%2C230)%3B%0Aovale.lineTo(330%2C200)%3B%0Aovale.lineTo(300%2C190)%3
+		B%0Aovale.lineTo(270%2C200)%3B%0Aovale.lineTo(245%2C230)%3B%0Aovale.fill(%22white%
+		22)%3B%0Aovale.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.s
+		troke(%22black%22%2C%208%20)%3B%0Aline.moveTo(300%2C195)%3B%0Aline.lineTo(300%2C25
+		5)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20triangle%20%3D%20new%20Path()%3B%0Atria
+		ngle.stroke(%22black%22%2C%202%20)%3B%0Atriangle.moveTo(300%2C355)%3B%0Atriangle.l
+		ineTo(255%2C335)%3B%0Atriangle.lineTo(255%2C375)%3B%0Atriangle.lineTo(300%2C355)%3
+		B%0Atriangle.fill(%22black%22)%3B%0Atriangle.addTo(stage)%3B%0A%20%0Avar%20triangl
+		e%20%3D%20new%20Path()%3B%0Atriangle.stroke(%22black%22%2C%202%20)%3B%0Atriangle.m
+		oveTo(300%2C355)%3B%0Atriangle.lineTo(345%2C335)%3B%0Atriangle.lineTo(345%2C375)%3
+		B%0Atriangle.lineTo(300%2C355)%3B%0Atriangle.fill(%22black%22)%3B%0Atriangle.addTo
+		(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22black%22%2C
+		%2015%20)%3B%0Aline.moveTo(420%2C500)%3B%0Aline.lineTo(420%2C650)%3B%0Aline.addTo(
+		stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22black%22%2C%
+		2015%20)%3B%0Aline.moveTo(180%2C500)%3B%0Aline.lineTo(180%2C650)%3B%0Aline.addTo(s
+		tage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22black%22%2C%2
+		025%20)%3B%0Aline.moveTo(420%2C650)%3B%0Aline.lineTo(420%2C673)%3B%0Aline.addTo(st
+		age)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22black%22%2C%2025%20)%3B%0Aline.moveTo(180%2C650)%3B%0Aline.lineTo(180%2C673)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22black%22%2C%2015%20)%3B%0Aline.moveTo(370%2C500)%3B%0Aline.lineTo(370%2C575)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22black%22%2C%2015%20)%3B%0Aline.moveTo(230%2C500)%3B%0Aline.lineTo(230%2C575)%3B%0Aline.addTo(stage)%3B%0A%20%0Astage.addChild(%0A%20%20new%20Arc(20%2C%2052%2C%2020%2C%20Math.PI%2F3.5%2C%20Math.PI)%0A%20%20.attr(%7BfillColor%3A%20'black'%2C%20strokeWidth%3A1%2C%20strokeColor%3A%20'black'%7D)%0A%20%20%09.attr(%7Bx%3A243%2Cy%3A569%7D)%0A)%3B%0A%20%0Astage.addChild(%0A%20%20new%20Arc(20%2C%2052%2C%2020%2C%20Math.PI%2F4%2C%20Math.PI)%0A%20%20.attr(%7BfillColor%3A%20'black'%2C%20strokeWidth%3A1%2C%20strokeColor%3A%20'black'%7D)%0A%09%09.attr(%7Bx%3A363%2Cy%3A561%7D)%0A)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22black%22%2C%2021%20)%3B%0Aline.moveTo(245%2C581)%3B%0Aline.lineTo(268%2C540)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22black%22%2C%2020%20)%3B%0Aline.moveTo(266%2C540)%3B%0Aline.lineTo(270%2C620)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22black%22%2C%2021%20)%3B%0Aline.moveTo(357%2C571)%3B%0Aline.lineTo(340%2C530)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22black%22%2C%2020%20)%3B%0Aline.moveTo(342%2C530)%3B%0Aline.lineTo(325%2C600)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22orange%22%2C%202%20)%3B%0Aline.moveTo(198%2C305)%3B%0Aline.lineTo(402%2C305)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22orange%22%2C%202%20)%3B%0Aline.moveTo(174%2C355)%3B%0Aline.lineTo(254%2C355)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22orange%22%2C%202%20)%3B%0Aline.moveTo(346%2C355)%3B%0Aline.lineTo(427%2C355)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22orange%22%2C%202%20)%3B%0Aline.moveTo(139%2C425)%3B%0Aline.lineTo(461%2C425)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22orange%22%2C%202%20)%3B%0Aline.moveTo(220%2C305)%3B%0Aline.lineTo(220%2C354)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22orange%22%2C%202%20)%3B%0Aline.moveTo(380%2C305)%3B%0Aline.lineTo(380%2C354)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22orange%22%2C%202%20)%3B%0Aline.moveTo(300%2C354)%3B%0Aline.lineTo(300%2C305)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22orange%22%2C%202%20)%3B%0Aline.moveTo(360%2C355)%3B%0Aline.lineTo(360%2C425)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22orange%22%2C%202%20)%3B%0Aline.moveTo(240%2C355)%3B%0Aline.lineTo(240%2C425)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22orange%22%2C%202%20)%3B%0Aline.moveTo(255%2C425)%3B%0Aline.lineTo(255%2C499)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22orange%22%2C%202%20)%3B%0Aline.moveTo(400%2C425)%3B%0Aline.lineTo(400%2C499)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22black%22%2C%202%20)%3B%0Aline.moveTo(285%2C195)%3B%0Aline.lineTo(280%2C170)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22black%22%2C%202%20)%3B%0Aline.moveTo(269%2C200)%3B%0Aline.lineTo(260%2C180)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22black%22%2C%202%20)%3B%0Aline.moveTo(315%2C195)%3B%0Aline.lineTo(320%2C170)%3B%0Aline.addTo(stage)%3B%0A%20%0Avar%20line%20%3D%20new%20Path()%3B%0Aline.stroke(%22black%22%2C%202%20)%3B%0Aline.moveTo(330%2C200)%3B%0Aline.lineTo(339%2C180)%3B%0Aline.addTo(stage)%3B%0A%20%0A%20%0A>Bonsai Art</a>
+		var triangle = new Path();
+		triangle.stroke("black", 2 );
+		triangle.moveTo(100,500);
+		triangle.lineTo(500,500);
+		triangle.lineTo(300,100);
+		triangle.lineTo(100,500);
+		triangle.fill("yellow");
+		triangle.addTo(stage);
+ 
+		var square = new Path();
+		square.stroke("black", 10 );
+		square.moveTo(265,99);
+		square.lineTo(330,99);
+		square.lineTo(330,94);
+		square.lineTo(270,94);
+		square.lineTo(270,99);
+		square.fill("black");
+		square.addTo(stage);
+ 
+		var square = new Path();
+		square.stroke("black", 10 );
+		square.moveTo(290,93);
+		square.lineTo(290,33);
+		square.lineTo(310,33);
+		square.lineTo(310,93);
+		square.lineTo(290,93);
+		square.fill("black");
+		square.addTo(stage);
+ 
+		var ovale = new Path();
+		ovale.stroke("black", 2 );
+		ovale.moveTo(245,230);
+		ovale.lineTo(260,245);
+		ovale.lineTo(277,255);
+		ovale.lineTo(300,260);
+		ovale.lineTo(327,255);
+		ovale.lineTo(337,250);
+		ovale.lineTo(355,230);
+		ovale.lineTo(330,200);
+		ovale.lineTo(300,190);
+		ovale.lineTo(270,200);
+		ovale.lineTo(245,230);
+		ovale.fill("white");
+		ovale.addTo(stage);
+ 
+		var line = new Path();
+		line.stroke("black", 8 );
+		line.moveTo(300,195);
+		line.lineTo(300,255);
+		line.addTo(stage);
+ 
+		var triangle = new Path();
+		triangle.stroke("black", 2 );
+		triangle.moveTo(300,355);
+		triangle.lineTo(255,335);
+		triangle.lineTo(255,375);
+		triangle.lineTo(300,355);
+		triangle.fill("black");
+		triangle.addTo(stage);
+ 
+		var triangle = new Path();
+		triangle.stroke("black", 2 );
+		triangle.moveTo(300,355);
+		triangle.lineTo(345,335);
+		triangle.lineTo(345,375);
+		triangle.lineTo(300,355);
+		triangle.fill("black");
+		triangle.addTo(stage);
+ 
+		var line = new Path();
+		line.stroke("black", 15 );
+		line.moveTo(420,500);
+		line.lineTo(420,650);
+		line.addTo(stage);
+ 
+		var line = new Path();
+		line.stroke("black", 15 );
+		line.moveTo(180,500);
+		line.lineTo(180,650);
+		line.addTo(stage);
+ 
+		var line = new Path();
+		line.stroke("black", 25 );
+		line.moveTo(420,650);
+		line.lineTo(420,673);
+		line.addTo(stage);
+ 
+		var line = new Path();
+		line.stroke("black", 25 );
+		line.moveTo(180,650);
+		line.lineTo(180,673);
+		line.addTo(stage);
+ 
+		var line = new Path();
+		line.stroke("black", 15 );
+		line.moveTo(370,500);
+		line.lineTo(370,575);
+		line.addTo(stage);
+ 
+		var line = new Path();
+		line.stroke("black", 15 );
+		line.moveTo(230,500);
+		line.lineTo(230,575);
+		line.addTo(stage);
+ 
+		stage.addChild(
+  		new Arc(20, 52, 20, Math.PI/3.5, Math.PI)
+  		.attr({fillColor: 'black', strokeWidth:1, strokeColor: 'black'})
+		.attr({x:243,y:569})
+		);
+ 
+		stage.addChild(
+ 		 new Arc(20, 52, 20, Math.PI/4, Math.PI)
+		  .attr({fillColor: 'black', strokeWidth:1, strokeColor: 'black'})
+				.attr({x:363,y:561})
+		);
+ 
+var line = new Path();
+line.stroke("black", 21 );
+line.moveTo(245,581);
+line.lineTo(268,540);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("black", 20 );
+line.moveTo(266,540);
+line.lineTo(270,620);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("black", 21 );
+line.moveTo(357,571);
+line.lineTo(340,530);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("black", 20 );
+line.moveTo(342,530);
+line.lineTo(325,600);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("orange", 2 );
+line.moveTo(198,305);
+line.lineTo(402,305);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("orange", 2 );
+line.moveTo(174,355);
+line.lineTo(254,355);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("orange", 2 );
+line.moveTo(346,355);
+line.lineTo(427,355);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("orange", 2 );
+line.moveTo(139,425);
+line.lineTo(461,425);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("orange", 2 );
+line.moveTo(220,305);
+line.lineTo(220,354);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("orange", 2 );
+line.moveTo(380,305);
+line.lineTo(380,354);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("orange", 2 );
+line.moveTo(300,354);
+line.lineTo(300,305);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("orange", 2 );
+line.moveTo(360,355);
+line.lineTo(360,425);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("orange", 2 );
+line.moveTo(240,355);
+line.lineTo(240,425);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("orange", 2 );
+line.moveTo(255,425);
+line.lineTo(255,499);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("orange", 2 );
+line.moveTo(400,425);
+line.lineTo(400,499);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("black", 2 );
+line.moveTo(285,195);
+line.lineTo(280,170);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("black", 2 );
+line.moveTo(269,200);
+line.lineTo(260,180);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("black", 2 );
+line.moveTo(315,195);
+line.lineTo(320,170);
+line.addTo(stage);
+ 
+var line = new Path();
+line.stroke("black", 2 );
+line.moveTo(330,200);
+line.lineTo(339,180);
+line.addTo(stage);
+		</li>
+		<p>The Scratch project was the most fun. We got to make any game we wanted, and 
+		use any characters we wanted</p>
+		<li><iframe allowtransparency="true" width="485" height="402" src="https://scratch
+		.mit.edu/projects/embed/131215410/?autostart=false" frameborder="0" allowfullscree
+		n></iframe>
+    	</li>
+   	 	<p>The Python select-a-path adventure was the most challenging project. Our story was
+   	 	about a robot looking for his place in the universe.</p>
+   	 	<li><iframe frameborder="0" width="100%" height="500px"  src="https://repl.it/embed/Et4i/66?lite=true"></iframe></li> 
+   	 	<p>The filters were hard to make, but I did like how they turned out in the end. 
+   	 	We turned regular pictures into something more beautiful. I hope to see this filter
+   	 	on Snap Chat someday.</p>
+   	 	<img src="Khafre_2525BC.JPG">
+   	 	<img src="Khafre_2525BC.png">
+   	 	<img src="Screen Shot.png">
+   	 	<img src="ScreenShot2.png">
+   	 	<p>Since the Scratch project was my favorite, I decided to do it for a final 
+   	 	project. For my Scratch game, I based it off of <a href="https://yanderesimulator.
+   	 	com/">Yandere Simulator</a>.</p>
+   	 	<li><iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/158277436/?autostart=false" frameborder="0" allowfullscre
+   	 	en></iframe></li>
+ 
+ 
